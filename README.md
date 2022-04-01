@@ -19,5 +19,11 @@
 ### Perez Yañez Juan Pablo - 20212115
 ### Sanchez Tapia Erick Daniel - 20212120
 ---
-![image](https://user-images.githubusercontent.com/101742408/160739968-aad8bce6-a634-492b-9ae5-01b657f46850.png)
+## NOMBRE DE LA MAESTRA:
+### Sanchez Vizcarra Daniela Adriana
+---
+## FECHA DE ENTREGA:
+### Viernes 31 de marzo del 2022
+---
 
+![image](https://user-images.githubusercontent.com/101742408/160739968-aad8bce6-a634-492b-9ae5-01b657f46850.png)
