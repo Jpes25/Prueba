@@ -27,7 +27,7 @@
 ---
 | Nombre           | Concepto    |Diferencias  |Ejemplos y sancion |
 |------------------|-------------|-------------|-------------------|
-| Norma juridica   |             |             |                   |
+| Norma juridica   | Una norma jurídica es un enunciado que contiene derechos u obligaciones para las personas en un determinado territorio. Las normas jurídicas componen como ley que son el ordenamiento jurídico de un territorio.|Se caracteriza por ser bilateral, heteronomas, externas, son establecidas por la ley.|El robar, extorsionar, quitarle la vida a un ser vivo se puede pagar con carcel o en un caso relativamente menor con multa.|
 | Norma social     |             |             |                   |
 | Norma moral      |             |             |                   |
 | Norma religiosa  |             |             |                   |
